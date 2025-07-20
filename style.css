@@ -342,6 +342,9 @@ transform: scale(1.02);
   object-fit: cover;
 
 }
+a{
+  color: white;
+}
 .projects-cards h3{
   font-size: 3rem;
 }
