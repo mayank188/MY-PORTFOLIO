@@ -348,9 +348,13 @@ transform: scale(1.02);
 .projects-cards p{
   font-size: 1.6rem;
 }
+
 .contact{
   background-color: var(--bg-color);
 
+}
+#link-card{
+  color:black;
 }
 .contact h2{
   margin-bottom: 3rem;
